@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bibliothèque</title>
-    <link rel="shortcut icon" href="Image/logoLivre.png " type="image/x-icon">
+    <link rel="shortcut icon" href="../Image/logoLivre.png " type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <link rel="stylesheet" href="../Fichier CSS/index.css">
     <link rel="stylesheet" href="../Fichier CSS/couleur.css">
@@ -17,7 +17,7 @@
  
     
 <nav class="navbar navbar-expand-lg navbar-light couleur">
-        <a class="navbar-brand" href="header.php"><strong>Ma Bibliothèque</strong></a>
+        <a class="navbar-brand" href="index.php"> <img src="../Image/livre.png" width="40"> <strong>Ma Bibliothèque</strong></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
