@@ -66,7 +66,7 @@ if(!empty($_SESSION['message'])){
   
   <br>
   
-  <a href="formNationalite.php?action=Ajouter" class='btn btn-sucess'> <img src="Image/plus.png" width="25" > Créer une nationalité</a>
+  <a href="formNationalite.php?action=Ajouter" class='btn btn-sucess'> <img src="../Image/plus.png" width="25" > Créer une nationalité</a>
   
 
   <br><br>
@@ -120,6 +120,7 @@ if(!empty($_SESSION['message'])){
 
 </div>
 
+<br><br>
 
 <!-- Tableaux -->
 <div class="container">

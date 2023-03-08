@@ -49,7 +49,7 @@
                     </a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="listeNationalites.php">Listes nationalités</a>
-                        <a class="dropdown-item" href="formAjoutNationalite.php">Ajouter une nationalité</a>
+                        <a class="dropdown-item" href="formNationalite.php">Ajouter une nationalité</a>
                     </div>
                 </li>
                 

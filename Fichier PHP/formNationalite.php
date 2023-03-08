@@ -2,7 +2,7 @@
 
 
 include "header.php";
-$action = $_GET['action'];
+@$action = $_GET['action'];
 include "connexionPDO.php "; 
 
 
